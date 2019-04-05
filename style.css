@@ -1,0 +1,17 @@
+button,
+div,
+form,
+label,
+input {
+    margin: 10px;
+}
+#gifs-view{
+    width: 100%;
+}
+.animal{
+    text-align: center;
+    width: 100%;
+}
+.animal >div{
+    display: inline-block;
+}
